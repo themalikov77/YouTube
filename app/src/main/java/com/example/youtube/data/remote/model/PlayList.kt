@@ -1,4 +1,4 @@
-package com.example.youtube.model
+package com.example.youtube.data.remote.model
 
 
 data class PlayList(

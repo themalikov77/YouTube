@@ -12,9 +12,9 @@
         android:label="fragment_play_list"
         tools:layout="@layout/fragment_play_list" />
     <fragment
-        android:id="@+id/secondFragment"
-        android:name="com.example.youtube.ui.SecondFragment"
+        android:id="@+id/playlistInformationFragment"
+        android:name="com.example.youtube.ui.information.InformationPlayListFragment"
         android:label="fragment_second"
-        tools:layout="@layout/fragment_second" />
+        tools:layout="@layout/fragment_information_playlist" />
 
 </navigation>

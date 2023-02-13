@@ -5,8 +5,14 @@
     <dimen name="width_250dp">250dp</dimen>
     <dimen name="sixty_60dp">60dp</dimen>
     <dimen name="sixteen">16dp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
     <dimen name="thirty_two_32dp">32dp</dimen>
     <dimen name="eight">8dp</dimen>
     <dimen name="one_hundred">100dp</dimen>
     <dimen name="one_hundred50">150dp</dimen>
+    <dimen name="second_1dp">1dp</dimen>
+    <dimen name="sp_24">24sp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+    <dimen name="dp_64">64dp</dimen>
+    <dimen name="dp_46">46dp</dimen>
 </resources>
